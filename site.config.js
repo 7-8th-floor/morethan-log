@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "7.8 floor",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://blog.kakaocdn.net/dna/uCS9z/dJMcaiokP52/AAAAAAAAAAAAAAAAAAAAAG-Uu3e3x_AF4GRQtfcmQni9i_GSeZFYDhlXtrPD4UCn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1767193199&allow_ip=&allow_referer=&signature=uhLz9wLHdbFG6q2wAxqzeZulOSM%3D", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "",
     email: "",
@@ -20,14 +20,14 @@ const CONFIG = {
   blog: {
     title: "morethan-log",
     description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "light", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
-  lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  since: 2025, // If leave this empty, current year will be used.
+  lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
+  ogImageGenerateURL: "https://blog.kakaocdn.net/dna/uCS9z/dJMcaiokP52/AAAAAAAAAAAAAAAAAAAAAG-Uu3e3x_AF4GRQtfcmQni9i_GSeZFYDhlXtrPD4UCn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1767193199&allow_ip=&allow_referer=&signature=uhLz9wLHdbFG6q2wAxqzeZulOSM%3D", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
