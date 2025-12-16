@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "7.8 floor",
-    image: "https://blog.kakaocdn.net/dna/uCS9z/dJMcaiokP52/AAAAAAAAAAAAAAAAAAAAAG-Uu3e3x_AF4GRQtfcmQni9i_GSeZFYDhlXtrPD4UCn/img.png?credential=yqXZFxpELC7KVnFOS48ylbz2pIh7yKj8&expires=1767193199&allow_ip=&allow_referer=&signature=uhLz9wLHdbFG6q2wAxqzeZulOSM%3D", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "imgur-embed-pub", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "",
     email: "",
@@ -10,6 +10,10 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
+
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/94LYeBr"  ><a href="//imgur.com/a/94LYeBr">My fluffy friend</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+  
   projects: [
     {
       name: `morethan-log`,
