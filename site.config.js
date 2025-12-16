@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "7.8 floor",
-    image: "imgur-embed-pub", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://i.imgur.com/Fon48xT.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "",
     bio: "",
     email: "",
@@ -10,10 +10,6 @@ const CONFIG = {
     github: "",
     instagram: "",
   },
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/94LYeBr"  ><a href="//imgur.com/a/94LYeBr">My fluffy friend</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-  
   projects: [
     {
       name: `morethan-log`,
